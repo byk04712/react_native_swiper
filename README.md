@@ -10,8 +10,8 @@
 
 
 ## Preview
-![简介1](https://github.com/byk04712/react_native_swiper/master/introduce1.gif)
+![简介1](https://github.com/byk04712/react_native_swiper/blob/master/introduce1.gif)
 
 ---
 
-![简介2](https://github.com/byk04712/react_native_swiper/master/introduce2.gif)
+![简介2](https://github.com/byk04712/react_native_swiper/blob/master/introduce2.gif)
